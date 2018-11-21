@@ -6,7 +6,7 @@
     <title>Unicode</title>
 </head>
 <body>
-<h1>Les caractères</h1>
+<h1>Les caractères de 0 à 255</h1>
 <p />
 <hr width="100%" />
 
